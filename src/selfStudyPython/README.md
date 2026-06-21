@@ -1,5 +1,1 @@
-
-
-
-
-
+Well, this is the end of this repo. It's better to build real projects instead of doing things one by one here, which makes it hard to integrate everything later since I got used to learning concepts in isolation. Not deleting this though, at least my profile isn't empty haha.
